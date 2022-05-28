@@ -105,7 +105,7 @@ Finally you can click the "Start" button and start playing the game!<br></br>
 The usage of the game is pretty simple: the only thing that you are supposted to do is to move up and down your phone in order to control the plectrum. The goal of the player is to center as many time as possible the colored dots that incomes from left to right. You can also notice that every line in the GUI represent a specific note of the song that is played in real time by the application, so when you move up and down with your phone you are simply play a different note of the song that you have chose.<br>
 On top right of the interface you can find also your current score and your combo.<br></br>
 <img src="game.png" alt="game"><br></br>
-When you have finished to play your favourite song, you can save the data of your last game. For doing this you have only to insert your name in the form that will be displayed after the game has ended and then click the "Submit" button. If you want to play again the game instead you can simply click the "Restart" button.
+When you have finished to play your favourite song, you can save the data of your last game. For doing this you have only to insert your name in the form that will be displayed after the game has ended and then click the "Submit" button. If you want to play again the game instead you can simply click the "Restart" button.<br></br>
 <img src="save.png" alt="save"><br></br>
 
 ## Data
