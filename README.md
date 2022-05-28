@@ -91,7 +91,7 @@ Don't foget also to download the MultiSense OSC application on your smartphone.
 4. Click on the Orientation card in order to expand it
 5. Take the smartphone straight in front of the PC and then click OFFSET button
 6. Start the OSC clicking the start button on top
-7. If you have done everything right you will see the application like this:<br></br><img src="multisense.png" alt="alert">
+7. If you have done everything right you will see the application like this:<br></br><img src="multisense.jpeg" alt="alert">
 
 
 
