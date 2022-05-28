@@ -73,7 +73,7 @@ Don't foget also to download the MultiSense OSC application on your smartphone.
 2. Install Supercollider on your PC
 3. Download for free Processing at [https://processing.org/download] on your PC
 4. Install Processing on your PC
-5. Download and install for free MultiSense OSC on your smartphone (Google Play Store link: [https://play.google.com/store/apps/details?id=edu.polytechnique.multisense.release])
+5. Download and install for free MultiSense OSC on your smartphone (Google Play Store link: [https://play.google.com/store/apps/details?id=edu.polytechnique.multisense.release], Apple Store link: [https://apps.apple.com/us/app/gyrosc/id418751595])
 
 ### Run
 1. Open instruments.sc file with Supercollider and run it
