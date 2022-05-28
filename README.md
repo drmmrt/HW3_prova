@@ -126,6 +126,8 @@ Another important file you can find in the data folder is the "comfig.dat", in w
 - [✓] click start 
 - [✓] play the game moving your phone up and down
 - [✓] insert your name and submit your score 
+- [✓] look your score in the save.dat file
+- [✓] change the speed of the songs in the config.dat
 - [✓] click restart for playing again and again
 
 <p align="right">(<a href="#top">back to top</a>)</p>
