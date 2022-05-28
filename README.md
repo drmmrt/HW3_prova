@@ -96,7 +96,13 @@ Don't foget also to download the MultiSense OSC application on your smartphone.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+In the main menu of the application you can choose from a list of songs the one that you'd love to play.<br>
+In the second select you can choose instead the instrument that you prefer for playing the song.<br>
+The last thing that you have to setup is the operative system that you have installed on you smartphone, in order to connect to the application properly.<br>
+Finally you can click the "Start" button and start playing the game!<br>
 <img src="main_menu.png" alt="Logo">
+The usage of the game is pretty simple: the only thing that you are supposted to do is to move up and down your phone in order to control the plectrum. The goal of the player is to center as many time as possible the colored dots that incomes from left to right. You can also notice that every line in the GUI represent a specific note of the song that is played in real time by the application, so when you move up and down with your phone you are simply play a different note of the song that you have chose.<br>
+On top right of the interface you can find also your current score and your combo.<br>
 <img src="game.png" alt="Logo">
 
 
