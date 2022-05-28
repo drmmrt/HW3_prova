@@ -85,6 +85,7 @@ Don't foget also to download the MultiSense OSC application on your smartphone.
 7. Finally click the play button on top for run the code
 
 ### MultisenseOSC Settings
+## Android
 1. Open the MultisenseOSC application on your smartphone
 2. Insert the IP address of your PC and the port number '12000'; then click NEXT button
 3. Enable the Orientation in tha main menu of the app
@@ -92,6 +93,9 @@ Don't foget also to download the MultiSense OSC application on your smartphone.
 5. Take the smartphone straight in front of the PC and then click OFFSET button
 6. Start the OSC clicking the start button on top
 7. If you have done everything right you will see the application like this:<br></br><img src="multisense.jpeg" alt="alert" height="400px">
+
+## iOS
+1. Open the MultisenseOSC application on your smartphone
 
 
 
