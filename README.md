@@ -77,9 +77,9 @@ Don't foget also to download the MultiSense OSC application on your smartphone.
 ### Run
 1. Open instruments.sc file with Supercollider and run it
 2. Open the ch2.pde file with Processing
-3. Accept the following alert that you get after opening the file <br><img src="alert.png" alt="Logo">
-4. In order to solve the error you will find in the import you have to do the next step <br><img src="lib.png" alt="Logo">
-5. Go to Sketch > Import Library > Add Library... It will open the Contribution Manager panel; here you can search and find the missing libraries and then click the install button <br><img src="lib_install.png" alt="Logo"> 
+3. Accept the following alert that you get after opening the file <br></br><img src="alert.png" alt="Logo">
+4. In order to solve the error you will find in the import you have to do the next step <br></br><img src="lib.png" alt="Logo">
+5. Go to Sketch > Import Library > Add Library... It will open the Contribution Manager panel; here you can search and find the missing libraries and then click the install button <br></br><img src="lib_install.png" alt="Logo"> 
 6. Move the data folder inside the ch2 folder
 7. Finally click the play button on top for run the code
 
@@ -99,11 +99,11 @@ Don't foget also to download the MultiSense OSC application on your smartphone.
 In the main menu of the application you can choose from a list of songs the one that you'd love to play.<br>
 In the second select you can choose instead the instrument that you prefer for playing the song.<br>
 The last thing that you have to setup is the operative system that you have installed on you smartphone, in order to connect to the application properly.<br>
-Finally you can click the "Start" button and start playing the game!<br>
-<img src="main_menu.png" alt="Logo">
+Finally you can click the "Start" button and start playing the game!<br></br>
+<img src="main_menu.png" alt="Logo"><br></br>
 The usage of the game is pretty simple: the only thing that you are supposted to do is to move up and down your phone in order to control the plectrum. The goal of the player is to center as many time as possible the colored dots that incomes from left to right. You can also notice that every line in the GUI represent a specific note of the song that is played in real time by the application, so when you move up and down with your phone you are simply play a different note of the song that you have chose.<br>
-On top right of the interface you can find also your current score and your combo.<br>
-<img src="game.png" alt="Logo">
+On top right of the interface you can find also your current score and your combo.<br></br>
+<img src="game.png" alt="Logo"><br></br>
 
 
 
