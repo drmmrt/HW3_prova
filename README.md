@@ -77,9 +77,9 @@ Don't foget also to download the MultiSense OSC application on your smartphone.
 ### Run
 1. Open instruments.sc file with Supercollider and run it
 2. Open the ch2.pde file with Processing
-3. Accept the following alert that you get after opening the file <img src="alert.png" alt="Logo" width="700" height="350">
-4. In order to solve the error you will find in the import <img src="lib.png" alt="Logo" width="700" height="350"> you have to do the next step
-5. Go to Sketch > Import Library > Add Library... It will open the Contribution Manager panel: <img src="lib_install.png" alt="Logo" width="700" height="350"> here search and find the missing libraries and then click the install button
+3. Accept the following alert that you get after opening the file <img src="alert.png" alt="Logo">
+4. In order to solve the error you will find in the import <img src="lib.png" alt="Logo"> you have to do the next step
+5. Go to Sketch > Import Library > Add Library... It will open the Contribution Manager panel: <img src="lib_install.png" alt="Logo"> here search and find the missing libraries and then click the install button
 6. Move the data folder inside the ch2 folder
 7. Finally click the play button on top for run the code
 
@@ -96,8 +96,8 @@ Don't foget also to download the MultiSense OSC application on your smartphone.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-<img src="main_menu.png" alt="Logo" width="700" height="350">
-<img src="game.png" alt="Logo" width="700" height="350">
+<img src="main_menu.png" alt="Logo">
+<img src="game.png" alt="Logo">
 
 
 
