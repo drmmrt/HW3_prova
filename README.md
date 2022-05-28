@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/polimi-cmls-22/group7-HW-SC-Radical_Geeks">
+  <a href="">
     <img src="logo.png" alt="Logo" width="640" height="120">
   </a>
 
@@ -42,6 +42,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#data">Data</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
 
@@ -77,9 +78,9 @@ Don't foget also to download the MultiSense OSC application on your smartphone.
 ### Run
 1. Open instruments.sc file with Supercollider and run it
 2. Open the ch2.pde file with Processing
-3. Accept the following alert that you get after opening the file <br></br><img src="alert.png" alt="Logo">
-4. In order to solve the error you will find in the import you have to do the next step <br></br><img src="lib.png" alt="Logo">
-5. Go to Sketch > Import Library > Add Library... It will open the Contribution Manager panel; here you can search and find the missing libraries and then click the install button <br></br><img src="lib_install.png" alt="Logo"> 
+3. Accept the following alert that you get after opening the file <br></br><img src="alert.png" alt="alert">
+4. In order to solve the error you will find in the import you have to do the next step <br></br><img src="lib.png" alt="lib">
+5. Go to Sketch > Import Library > Add Library... It will open the Contribution Manager panel; here you can search and find the missing libraries and then click the install button <br></br><img src="lib_install.png" alt="lib install"> 
 6. Move the data folder inside the ch2 folder
 7. Finally click the play button on top for run the code
 
@@ -100,11 +101,18 @@ In the main menu of the application you can choose from a list of songs the one 
 In the second select you can choose instead the instrument that you prefer for playing the song.<br>
 The last thing that you have to setup is the operative system that you have installed on you smartphone, in order to connect to the application properly.<br>
 Finally you can click the "Start" button and start playing the game!<br></br>
-<img src="main_menu.png" alt="Logo"><br></br>
+<img src="main_menu.png" alt="main menu"><br></br>
 The usage of the game is pretty simple: the only thing that you are supposted to do is to move up and down your phone in order to control the plectrum. The goal of the player is to center as many time as possible the colored dots that incomes from left to right. You can also notice that every line in the GUI represent a specific note of the song that is played in real time by the application, so when you move up and down with your phone you are simply play a different note of the song that you have chose.<br>
 On top right of the interface you can find also your current score and your combo.<br></br>
-<img src="game.png" alt="Logo"><br></br>
+<img src="game.png" alt="game"><br></br>
+When you have finished to play your favourite song, you can save the data of your last game. For doing this you have only to insert your name in the form that will be displayed after the game has ended and then click the "Submit" button. If you want to play again the game instead you can simply click the "Restart" button.
+<img src="save.png" alt="save"><br></br>
 
+## Data
+The data will be stored in the data folder that in the previous steps you have moved in the ch2 folder. In fact, after saving your games, in this folder you can find a file called "save.dat", in wich you can find the name of the user you inserted, the name of the song and the score that you played; all these informations will be seprated by a semicolon. Here you can find a simple example of the save.dat file structure.<br></br>
+<img src="save_dat.png" alt="save"><br></br>
+Another important file you can find in the data folder is the "comfig.dat", in wich there are stored all the name of the songs avaiable in the application, combinated with their speed (separeted also this time by a semicolon). So in order to change the speed of the songs you can simply modify this file. Here you can find a simple example of the config.dat file structure.<br></br>
+<img src="config_dat.png" alt="save"><br></br>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -112,15 +120,13 @@ On top right of the interface you can find also your current score and your comb
 <!-- ROADMAP -->
 ## Roadmap
 
-- [✓] customizable FM synth
-- [✓] you can save and load patterns
-- [✓] you can use the FM synth as an instrument with a MIDI external device
-- [✓] you can play our demo
-- [✓] you can choose between a sinusoidal wave, a square wave or a sawtooth wave as carrier
-- [✓] you can choose the synthesis parameters (ratio and index)
-- [✓] you can setup the envelope (attack and release)
-- [✓] you can set the panning
-- [✓] you can view the time and frequency scope directly in the main window
+- [✓] select the song that you want to play
+- [✓] select the instrument that you want to play
+- [✓] select the OS of your smartphone
+- [✓] click start 
+- [✓] play the game moving your phone up and down
+- [✓] insert your name and submit your score 
+- [✓] click restart for playing again and again
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -132,7 +138,7 @@ Alberto Bollino - (alberto.bollino@mail.polimi.it) </p>
 Umberto Derme - (umberto.derme@mail.polimi.it) </p>
 Giorgio Granello - (giorgio.granello@mail.polimi.it) </p>
 
-Project Link: [https://github.com/polimi-cmls-22/group7-HW-SC-Radical_Geeks](https://github.com/polimi-cmls-22/group7-HW-SC-Radical_Geeks)
+Project Link: []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
